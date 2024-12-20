@@ -377,7 +377,7 @@ export default function Home() {
           <span className="font-aston text-[90px]">Moda circular</span>
           <span className="font-black text-[60px] uppercase mt-[-1.5rem]">con Be-tty</span>
         </h1>
-        <a href="#" className="bg-white text-[#343E32] font-black py-3 px-5 uppercase">Comenzar Hoy</a>
+        <a href="https://eco-betty-virtual-try-on.vercel.app/" className="bg-white text-[#343E32] font-black py-3 px-5 uppercase">Comenzar Hoy</a>
       </section>
     </main>
   );
